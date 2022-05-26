@@ -1,0 +1,10 @@
+D:\PROJECT\GetDataKPIISO\GetDataKPIISO\bin\Release\GetDataKPIISO.exe.config
+D:\PROJECT\GetDataKPIISO\GetDataKPIISO\bin\Release\GetDataKPIISO.exe
+D:\PROJECT\GetDataKPIISO\GetDataKPIISO\bin\Release\GetDataKPIISO.pdb
+D:\PROJECT\GetDataKPIISO\GetDataKPIISO\bin\Release\Npgsql.dll
+D:\PROJECT\GetDataKPIISO\GetDataKPIISO\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\PROJECT\GetDataKPIISO\GetDataKPIISO\obj\Release\GetDataKPIISO.csproj.CoreCompileInputs.cache
+D:\PROJECT\GetDataKPIISO\GetDataKPIISO\obj\Release\GetDataKPIISO.csproj.CopyComplete
+D:\PROJECT\GetDataKPIISO\GetDataKPIISO\obj\Release\GetDataKPIISO.exe
+D:\PROJECT\GetDataKPIISO\GetDataKPIISO\obj\Release\GetDataKPIISO.pdb
+D:\PROJECT\GetDataKPIISO\GetDataKPIISO\obj\Release\GetDataKPIISO.csprojAssemblyReference.cache
